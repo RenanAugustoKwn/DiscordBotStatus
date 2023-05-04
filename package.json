@@ -1,0 +1,23 @@
+{
+  "name": "botescolherclasse",
+  "version": "1.0.0",
+  "description": "",
+  "engines":{
+    "node": "16.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "client": "^0.0.1",
+    "config": "^3.3.6",
+    "config.json": "^0.0.4",
+    "discord.js": "^13.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
